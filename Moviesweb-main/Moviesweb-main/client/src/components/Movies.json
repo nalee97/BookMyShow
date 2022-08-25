@@ -1,0 +1,33 @@
+[
+{
+    "id": 1,
+    "image":"https://upload.wikimedia.org/wikipedia/en/7/72/Sarkar_2018_poster.jpg",
+    "title":"Sarkar",
+    "actor":"Vijay"
+},
+
+{
+    "id": 2,
+    "image":"https://www.filmibeat.com/img/popcorn/movie_posters/sultan-20201027095510-18124.jpg",
+    "title":"Sulthan",
+    "actor":"karthi"
+},
+{
+    "id": 3,
+    "image":"https://moviegalleri.net/wp-content/uploads/2021/07/Actor-Suriya-Jai-Bhim-Movie-First-Look-Poster-HD.jpg",
+    "title":"Jai Bim",
+    "actor":"Surya"
+},
+{
+    "id": 4,
+    "image":"https://moviegalleri.net/wp-content/uploads/2017/02/Thala-Ajith-Ak-57-Title-Vivegam-Movie-First-Look-Poster.jpg",
+    "title":"Viveham",
+    "actor":"Ajith"
+},
+{
+    "id": 5,
+    "image":"https://images.tamilscraps.com/wp-content/uploads/2018/05/Kalakalappu-2-Movie-poster-2.jpg",
+    "title":"KalaKalappu",
+    "actor":"Niflan"
+}
+]
